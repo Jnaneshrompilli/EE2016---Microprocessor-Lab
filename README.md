@@ -1,5 +1,5 @@
 ## EE2016 - Microprocessor-Lab
-Assignments of EE2016 - Microprocessor Theory and Lab Course
+Assignments of EE2016 - Microprocessor Theory and Lab
 
 **LAB 1**: Implement basic arithmetic and logic manipulation programs using Atmel Atmega8 in assembly language simulation
 
